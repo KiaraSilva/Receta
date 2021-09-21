@@ -1,0 +1,132 @@
+body{
+    background-color: #034C21;
+}
+#titulo{
+    background-color: #C89F06;
+    text-align:center; 
+    display: block;
+    text-align: center; 
+    color: #1B1242;
+    font-family: 'Urbanist', sans-serif;
+    text-decoration: underline;
+}
+#imgttlo:hover{
+    padding-top: 10px;
+      height: 250px;
+      width: 350px;
+  
+  }
+.enlaces{
+    font-family: 'Urbanist', sans-serif;
+    text-align: center;
+    font-size: 20px;
+    color: black;
+}
+.ecs{
+    font-family: 'Urbanist', sans-serif; 
+    font-size: 20px; 
+    color: #1B1242;
+    text-decoration: none;
+}
+.ecs:hover{
+    font-size: 25px;
+    background-color:#C89F06;
+    color: black;
+    text-decoration: none;
+}
+
+
+
+.rd{
+    text-align: center;
+    float: none;
+  }
+#imgttlo
+{ 
+    padding-top: 10px;
+    height: 200px;
+    width: 300px;
+
+}
+.p1
+{
+    color: black; 
+    font-family: 'Urbanist', sans-serif; 
+    font-size: 25px;
+    
+}
+#imgp{
+    width: 300px;
+    height: 200px;
+   
+}
+main::after{
+    content: "Foto Acarajé";
+}
+#imgp:hover{
+    width: 350px;
+    height: 250px;
+}
+
+
+.b1{
+   font-family: 'Urbanist';
+}
+.b1:hover{
+    font-size: 30px;
+    background-color: #C89F06;
+}
+.ingredientes
+{
+    font-family: 'Urbanist';
+    display: block;
+}
+.ingredientes:hover{
+    font-size: 20px;
+    background-color: #C89F06;
+    
+}
+.b2{
+    font-family: 'Urbanist', sans-serif;
+}
+.b2:hover{
+    font-size: 30px;
+    background-color: #C89F06;
+}
+.pasos{
+    font-family: 'Urbanist', sans-serif;
+}
+.pasos:hover{
+    font-size: 20px;
+    background-color: #C89F06;
+    
+}
+.video{
+    background-color: #C89F06;
+    text-align:center; 
+    display: block;
+}
+.video:hover{
+    background-color: #1B1242;
+    text-align:center; 
+    display: block;
+    font-size: 40px;
+}
+.maps{
+    text-align:center
+}
+video{
+    width:100%;
+    height:100%;
+}
+.contacto:visited{
+    color:#C89F06;
+    text-decoration: none;
+  }
+.contacto:hover{
+    font-size: 20px;
+    background-color:#C89F06;
+    color: black;
+    text-decoration: none;
+}
+

@@ -1,0 +1,77 @@
+body{
+    background-color: #034C21;
+}
+* {
+    padding: 0;
+    margin: 0;
+    font-family: century gothic;
+    text-align: center;
+    color: black;
+  }
+
+  form {
+    padding: 50px 20px;
+    background-color: #ededed;
+    margin: calc(25% + 100px);
+    margin-top: 70px;
+    padding-top: 28px;
+    margin-bottom: 30px
+  }
+  #titulo{
+    background-color: #C89F06;
+    text-align:center; 
+    display: block;
+    text-align: center; 
+    color: #1B1242;
+    font-family: 'Urbanist', sans-serif;
+    text-decoration: underline;
+}
+#imgttlo
+{ 
+    padding-top: 10px;
+    height: 200px;
+    width: 300px;
+
+}
+
+
+  h1 {
+    text-align: center;
+    padding: 12px;
+    color: black;
+    font-family: century gothic;
+    font-size: 25px;
+  }
+  input {
+    width: calc(100% - 20px);
+    padding: 9px;
+    margin: auto;
+    margin-top: 12px;
+    font-size: 16px
+  }
+  input[type='submit']{
+    background-color: #1B1242;
+    color: #fff;
+    width: calc(80% - 20px);
+    margin: 0 10%;
+    margin-top: 22px;
+    border: none;
+  }
+  input[type=submit]:hover {
+    background-color: #C89F06;
+    color: white;
+  }
+  .volver:visited{
+    color:#C89F06;
+    text-decoration: none;
+  }
+  .volver:hover{
+      font-size: 20px;
+      background-color:#C89F06;
+      color: black;
+      text-decoration: none;
+  }
+    
+  
+
+  
